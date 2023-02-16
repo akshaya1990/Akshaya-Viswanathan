@@ -140,3 +140,13 @@ h3{
 .resume-text{
     font-weight: bold  ;
 }
+
+@media (max-width:1024px){
+    .dp-img{
+        transform: rotate(0);
+    }
+
+    #about{
+        text-align: center;
+    }
+}
